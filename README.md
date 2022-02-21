@@ -1,2 +1,2 @@
 # log-parser
-Apache log parser for nodejs
+Apache-style log parser for nodejs
